@@ -3,6 +3,10 @@ I'm a front-end developer. I create interactive web stuff using Vue js and Nuxt 
 
 Apart from this, I also love creating [colour-coded diagrams](https://krutiepatel.com/diagrams). I create them to capture and document my learning. Diagraming have been an effective tool in my learning journey of Laravel, Vue js and of course, my absolute favourite, Nuxt js.
 
+### My latest article/s on my blog:
+
+[Create Card component story using Storybook with Nuxt](https://krutiepatel.com/blog/create-card-component-story-using-storybook-with-nuxt) - Post outlining how I created a story of a Card UI component using Storybook with Nuxt.
+
 ### My latest articles on Nuxt blog:
 
 [Understanding how fetch works in Nuxt 2.12](https://nuxtjs.org/blog/understanding-how-fetch-works-in-nuxt-2-12) - explore different features of the Nuxt fetch hook and understand how it works.
