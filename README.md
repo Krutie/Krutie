@@ -4,6 +4,7 @@ I'm a front-end developer. I create interactive web stuff using Vue js and Nuxt 
 Apart from this, I also love creating [colour-coded diagrams](https://krutiepatel.com/diagrams). I create them to capture and document my learning. Diagraming have been an effective tool in my learning journey of Laravel, Vue js and of course, my absolute favourite, Nuxt js.
 
 ### NuxtDojo - Nuxt Book Project
+* [#7 Mastering Vue side of Nuxt, Firebase Auth as Nuxt Layer, and Author's Insights](https://blog.nuxtdojo.com/p/7-mastering-vue-side-of-nuxt-firebase)
 * [#6 Building effective landing pages with Nuxt](https://blog.nuxtdojo.com/p/6-building-effective-landing-pages)
 * [#5 Nuxt and Anatomy of Loading Indicators](https://blog.nuxtdojo.com/p/5-nuxt-and-anatomy-of-loading-indicators)
 * [#4 Nuxt Routes Rundown](https://blog.nuxtdojo.com/p/4-nuxt-routes-rundown)
